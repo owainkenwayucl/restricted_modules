@@ -2,7 +2,7 @@
 
 set -e
 
-base_dir = /shared/ucl/apps/restricted_modules
+base_dir=/shared/ucl/apps/restricted_modules
 
 cd $base_dir
 
