@@ -4,6 +4,8 @@ set -e
 
 base_dir=/shared/ucl/apps/restricted_modules
 
+rm -rf $base_dir/modulefiles
+
 for a in `cat modules.list`
 do
   echo "Linking $a"

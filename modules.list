@@ -3,13 +3,13 @@ applications/tmux/2.2
 bundles/python2/recommended
 bundles/python3/3.6
 bundles/python3/recommended
+compilers/compilers/gnu/4.9.2
 core/gerun
 core/mrxvt/0.5.4
 core/rcps-core/1.0.0
 core/screen/4.2.1
 core/userscripts
 development/cmake/3.7.2
-development/compilers/gnu/4.9.2
 development/emacs/24.5
 development/flex/2.5.39
 development/git/2.10.2
