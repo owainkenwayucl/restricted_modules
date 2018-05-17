@@ -25,3 +25,4 @@ libraries/gcc-libs/4.9.2
 libraries/giflib/5.1.1
 libraries/mpi/openmpi/3.0.0/gnu-4.9.2
 libraries/openblas/0.2.14/gnu-4.9.2
+htop/1.0.3/gnu-4.9.2
