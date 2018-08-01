@@ -3,6 +3,7 @@ applications/tmux/2.2
 bundles/python2/recommended
 bundles/python3/3.6
 bundles/python3/recommended
+bundles/personal-modules
 compilers/compilers/gnu/4.9.2
 core/gerun
 core/mrxvt/0.5.4
