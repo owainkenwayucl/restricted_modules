@@ -4,6 +4,7 @@ applications/gatk/4.0.8.0
 applications/gatk/4.0.3.0
 applications/ghostscript/9.19/gnu-4.9.2
 applications/texinfo/5.2/gnu-4.9.2
+applications/texlive/2015
 bundles/python2/recommended
 bundles/python3/3.6
 bundles/python3/recommended
@@ -28,6 +29,7 @@ development/python/miniconda3/4.5.11
 development/julia/1.0.0
 development/chicken/4.13.0
 development/subversion/1.8.13
+development/perlbrew/0.73
 libraries/apr/1.5.2
 libraries/apr-util/1.5.4
 libraries/fftw/3.3.6-pl2/gnu-4.9.2
@@ -36,6 +38,11 @@ libraries/gcc-libs/4.9.2
 libraries/giflib/5.1.1
 libraries/gsl/1.16/gnu-4.9.2
 libraries/hdf/5-1.8.15/gnu-4.9.2
+libraries/netcdf/4.3.3.1/gnu-4.9.2
+libraries/udunits/2.2.20/gnu-4.9.2
+libraries/jags/4.2.0/gnu.4.9.2-openblas
+libraries/root/5.34.30/gnu-4.9.2
+libraries/glpk/4.60/gnu-4.9.2
 libraries/mpi/openmpi/3.0.0/gnu-4.9.2
 libraries/mpi/openmpi/1.10.1/gnu-4.9.2
 libraries/openblas/0.3.2-native-threads/gnu-4.9.2
