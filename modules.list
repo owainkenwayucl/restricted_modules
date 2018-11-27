@@ -30,6 +30,7 @@ development/julia/1.0.0
 development/chicken/4.13.0
 development/subversion/1.8.13
 development/perlbrew/0.73
+development/perl/5.22.0
 libraries/apr/1.5.2
 libraries/apr-util/1.5.4
 libraries/fftw/3.3.6-pl2/gnu-4.9.2
