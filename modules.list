@@ -1,5 +1,7 @@
 applications/dos2unix/7.3
 applications/tmux/2.2
+applications/gatk/4.0.8.0
+applications/gatk/4.0.3.0
 bundles/python2/recommended
 bundles/python3/3.6
 bundles/python3/recommended
@@ -30,6 +32,7 @@ libraries/fftw/3.3.6-pl2/gnu-4.9.2
 libraries/gcc-libs/4.9.2
 libraries/giflib/5.1.1
 libraries/mpi/openmpi/3.0.0/gnu-4.9.2
+libraries/mpi/openmpi/1.10.1/gnu-4.9.2
 libraries/openblas/0.3.2-native-threads/gnu-4.9.2
 libraries/openblas/0.3.2-openmp/gnu-4.9.2
 libraries/openblas/0.3.2-serial/gnu-4.9.2
