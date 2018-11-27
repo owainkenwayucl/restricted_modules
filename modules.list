@@ -39,9 +39,9 @@ libraries/giflib/5.1.1
 libraries/gsl/1.16/gnu-4.9.2
 libraries/hdf/5-1.8.15/gnu-4.9.2
 libraries/netcdf/4.3.3.1/gnu-4.9.2
-libraries/udunits/2.2.20/gnu-4.9.2
-libraries/jags/4.2.0/gnu.4.9.2-openblas
-libraries/root/5.34.30/gnu-4.9.2
+applications/udunits/2.2.20/gnu-4.9.2
+applications/jags/4.2.0/gnu.4.9.2-openblas
+applications/root/5.34.30/gnu-4.9.2
 libraries/glpk/4.60/gnu-4.9.2
 libraries/mpi/openmpi/3.0.0/gnu-4.9.2
 libraries/mpi/openmpi/1.10.1/gnu-4.9.2
