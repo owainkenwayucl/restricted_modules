@@ -35,6 +35,7 @@ libraries/fftw/3.3.4/gnu-4.9.2
 libraries/gcc-libs/4.9.2
 libraries/giflib/5.1.1
 libraries/gsl/1.16/gnu-4.9.2
+libraries/hdf/5-1.8.15/gnu-4.9.2
 libraries/mpi/openmpi/3.0.0/gnu-4.9.2
 libraries/mpi/openmpi/1.10.1/gnu-4.9.2
 libraries/openblas/0.3.2-native-threads/gnu-4.9.2
