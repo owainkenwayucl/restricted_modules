@@ -14,7 +14,7 @@ core/rlwrap/0.43
 development/cmake/3.7.2
 development/emacs/24.5
 development/flex/2.5.39
-development/git/2.10.2
+development/git/2.19.1
 development/nano/2.4.2
 development/nedit/5.6-aug15
 development/python/2.7.12
