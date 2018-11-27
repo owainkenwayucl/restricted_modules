@@ -5,6 +5,7 @@ applications/gatk/4.0.3.0
 applications/ghostscript/9.19/gnu-4.9.2
 applications/texinfo/5.2/gnu-4.9.2
 applications/texlive/2015
+applications/gdal/2.1.1
 bundles/python2/recommended
 bundles/python3/3.6
 bundles/python3/recommended
