@@ -59,3 +59,5 @@ development/racket/6.8
 development/pypy3/6.0.0/gnu-4.9.2
 development/julia/0.6.0
 bundles/pypy3/3.5-compat
+libraries/geos/3.5.0/gnu-4.9.2
+libraries/protobuf/12-2017/gnu-4.9.2
