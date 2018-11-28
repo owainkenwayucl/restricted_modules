@@ -7,6 +7,7 @@ applications/ghostscript/9.19/gnu-4.9.2
 applications/gmt/5.3.1
 applications/graphicsmagick/1.3.21
 applications/jags/4.2.0/gnu.4.9.2-openblas
+applications/jq/1.5/gnu-4.9.2
 applications/proj.4/4.9.1
 applications/r/3.4.2-openblas/gnu-4.9.2
 applications/root/5.34.30/gnu-4.9.2
