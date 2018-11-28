@@ -10,6 +10,7 @@ applications/jags/4.2.0/gnu.4.9.2-openblas
 applications/jq/1.5/gnu-4.9.2
 applications/proj.4/4.9.1
 applications/r/3.4.2-openblas/gnu-4.9.2
+applications/r/3.5.1-openblas/gnu-4.9.2
 applications/root/5.34.30/gnu-4.9.2
 applications/root/5.34.36/gnu-4.9.2-fftw-3.3.6
 applications/texinfo/5.2/gnu-4.9.2
@@ -24,6 +25,7 @@ bundles/python2/recommended
 bundles/python3/3.6
 bundles/python3/recommended
 bundles/r/recommended
+bundles/r/new
 compilers/compilers/gnu/4.9.2
 core/gerun
 core/mrxvt/0.5.4
