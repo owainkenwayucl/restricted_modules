@@ -37,6 +37,7 @@ development/perl/5.22.0
 development/libtool/2.4.6
 libraries/apr/1.5.2
 libraries/apr-util/1.5.4
+applications/proj.4/4.9.1
 libraries/fftw/3.3.6-pl2/gnu-4.9.2
 libraries/fftw/3.3.4/gnu-4.9.2
 libraries/gcc-libs/4.9.2
