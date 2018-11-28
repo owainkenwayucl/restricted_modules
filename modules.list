@@ -68,3 +68,4 @@ bundles/r/recommended
 libraries/geos/3.5.0/gnu-4.9.2
 libraries/protobuf/12-2017/gnu-4.9.2
 applications/curl/7.47.1/gnu-4.9.2
+development/depot_tools/c03a9cf
