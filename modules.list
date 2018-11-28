@@ -11,6 +11,7 @@ applications/jq/1.5/gnu-4.9.2
 applications/proj.4/4.9.1
 applications/r/3.4.2-openblas/gnu-4.9.2
 applications/root/5.34.30/gnu-4.9.2
+applications/root/5.34.36/gnu-4.9.2-fftw-3.3.6
 applications/texinfo/5.2/gnu-4.9.2
 applications/texlive/2015
 applications/tmux/2.2
