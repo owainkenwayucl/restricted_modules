@@ -48,6 +48,7 @@ applications/udunits/2.2.20/gnu-4.9.2
 applications/jags/4.2.0/gnu.4.9.2-openblas
 applications/root/5.34.30/gnu-4.9.2
 applications/graphicsmagick/1.3.21
+applications/r/3.4.2-openblas/gnu-4.9.2
 libraries/glpk/4.60/gnu-4.9.2
 libraries/mpi/openmpi/3.0.0/gnu-4.9.2
 libraries/mpi/openmpi/1.10.1/gnu-4.9.2
@@ -62,5 +63,7 @@ development/racket/6.8
 development/pypy3/6.0.0/gnu-4.9.2
 development/julia/0.6.0
 bundles/pypy3/3.5-compat
+bundles/r/recommended
 libraries/geos/3.5.0/gnu-4.9.2
 libraries/protobuf/12-2017/gnu-4.9.2
+applications/curl/7.47.1/gnu-4.9.
