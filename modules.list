@@ -7,6 +7,8 @@ applications/clustal-omega/1.2.1
 applications/cufflinks/2.2.1
 applications/tophat/2.1.0
 applications/dos2unix/7.3
+applications/fasta/36.3.8d/gnu-4.9.2
+applications/fastqc/0.11.8
 applications/gatk/4.0.3.0
 applications/gatk/4.0.8.0
 applications/gdal/2.0.0
