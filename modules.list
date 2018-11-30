@@ -71,6 +71,7 @@ libraries/arpack-ng/3.5.0/gnu-4.9.2-serial
 libraries/apr/1.5.2
 libraries/apr-util/1.5.4
 libraries/argtable/2.13
+libraries/boost/1_54_0/gnu-4.9.2
 libraries/cfitsio/3370/gnu-4.9.2
 libraries/fftw/3.3.4/gnu-4.9.2
 libraries/fftw/3.3.6-pl2/gnu-4.9.2
