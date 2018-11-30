@@ -1,4 +1,6 @@
 applications/blast/2.2.26
+applications/bowtie/1.1.2
+applications/bowtie2/2.2.5
 applications/curl/7.47.1/gnu-4.9.2
 applications/dos2unix/7.3
 applications/gatk/4.0.3.0
