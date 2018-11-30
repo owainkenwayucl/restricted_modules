@@ -64,6 +64,7 @@ development/subversion/1.8.13
 development/v8/3.15
 libraries/apr/1.5.2
 libraries/apr-util/1.5.4
+libraries/cfitsio/3370/gnu-4.9.2
 libraries/fftw/3.3.4/gnu-4.9.2
 libraries/fftw/3.3.6-pl2/gnu-4.9.2
 libraries/gcc-libs/4.9.2
