@@ -4,6 +4,7 @@ applications/bowtie2/2.2.5
 applications/bwa/0.7.12/gnu-4.9.2
 applications/curl/7.47.1/gnu-4.9.2
 applications/clustal-omega/1.2.1
+applications/cufflinks/2.2.1
 applications/dos2unix/7.3
 applications/gatk/4.0.3.0
 applications/gatk/4.0.8.0
