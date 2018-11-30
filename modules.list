@@ -22,6 +22,9 @@ applications/r/3.5.1-openblas/gnu-4.9.2
 applications/root/5.34.30/gnu-4.9.2
 applications/root/5.34.36/gnu-4.9.2-fftw-3.3.6
 applications/texinfo/5.2/gnu-4.9.2
+applications/samtools/0.1.19
+applications/samtools/1.2/gnu-4.9.2
+applications/samtools/1.3.1/gnu-4.9.2
 applications/texlive/2015
 applications/tmux/2.2
 applications/udunits/2.2.20/gnu-4.9.2
