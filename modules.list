@@ -28,6 +28,7 @@ applications/udunits/2.2.20/gnu-4.9.2
 applications/udunits/2.2.26/gnu-4.9.2
 bundles/gmt/recommended
 bundles/personal-modules
+bundles/octave/recommended
 bundles/pypy3/3.5-compat
 bundles/python2/recommended
 bundles/python3/3.6
