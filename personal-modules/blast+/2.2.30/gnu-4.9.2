@@ -1,0 +1,24 @@
+#%Module -*- tcl -*-
+#
+# BLAST+ 2.2.30
+#
+
+proc ModulesHelp { } {
+
+    puts stderr "This module adds the BLAST+ 2.2.30 package to your environment."
+    puts stderr ""
+}
+
+module-whatis "This module adds the BLAST+ 2.2.30 package to your environment."
+
+prereq gcc-libs/4.9.2
+
+conflict blast+
+
+set root 			/shared/ucl/apps/blast+/2.2.30/gnu-4.9.2
+prepend-path PATH      		$root/bin/
+prepend-path LD_LIBRARY_PATH 	$root/lib
+prepend-path LIBRARY_PATH	$root/lib
+prepend-path CPATH		$root/include
+
+setenv BLASTDB			$root/data

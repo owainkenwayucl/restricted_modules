@@ -1,0 +1,14 @@
+#%Module -*- tcl -*-
+##
+## Dummy Java modulefile - uses system JDK
+
+proc ModulesHelp { } {
+  puts stderr "\tDummy Java module.  Actually uses system OpenJDK"
+}
+
+module-whatis "Dummy Java module.  Actually uses system OpenJDK"
+
+conflict java
+prereq gcc-libs/4.9.2
+
+puts stderr "Loading dummy Java module."
