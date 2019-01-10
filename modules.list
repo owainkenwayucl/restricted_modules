@@ -33,6 +33,7 @@ applications/texlive/2015
 applications/tmux/2.2
 applications/udunits/2.2.20/gnu-4.9.2
 applications/udunits/2.2.26/gnu-4.9.2
+applications/vep/95.0
 bundles/gmt/recommended
 bundles/personal-modules
 bundles/octave/recommended
