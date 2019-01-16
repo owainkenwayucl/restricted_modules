@@ -52,6 +52,7 @@ core/rlwrap/0.43
 core/screen/4.2.1
 core/userscripts
 development/bison/3.0.4/gnu-4.9.2
+development/clojure/1.10.0.411
 development/chicken/4.13.0
 development/cmake/3.7.2
 development/depot_tools/c03a9cf
@@ -61,6 +62,7 @@ development/git/2.19.1
 development/htop/1.0.3/gnu-4.9.2
 development/julia/0.6.0
 development/julia/1.0.0
+development/java/openjdk-11/11.0.1
 development/libtool/2.4.6
 development/nano/2.4.2
 development/nedit/5.6-aug15
